@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Poppins, sans-serif;
+}
+
+.header {
+  height: 10vh;
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  align-items: center;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.trybewarts-header-logo {
+  width: 4%;
+  padding-top: 6px;
+}
+
+.trybewarts-login {
+  display: flex;
+  justify-content: space-around;
+  width: 40%;
+  height: 24px;
+}
+
+.input-login {
+  width: 27%;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+#btnlogin {
+  width: 22%;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(53, 160, 231);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+#btnlogin:hover {
+  color: rgb(53, 160, 231);
+  background-color: aliceblue;
+  border: 2px solid  rgb(53, 160, 231);
+  transition: 0.6s;
+}
+
+#trybewarts-header-title {
+  align-self: center;
+  color: white;
+}
+
+h3 {
+  text-align: center;
+  font-size: x-large;
+  margin-bottom: 20px;
+}
+
+.main-form {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2%;
+}
+
+#evaluation-form {
+  display: flex;
+  flex-direction: column;
+  width: 675px;
+}
+
+.container-forms {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 1%;
+}
+
+.main-input {
+  display: flex;
+  outline: none;
+  border: none;
+  width: 46%;
+  border-radius: 5px;
+  height: 40px;
+}
+
+#house {
+  outline: none;
+  border: none;
+  width: 100%;
+  border-bottom: 2px solid rgb(168, 168, 168);
+  background-color: aliceblue;
+}
+
+hr {
+  margin: 20px 0 5px;
+}
+
+.container-forms input {
+  border-bottom: 2px solid rgb(173, 173, 173);
+}
+
+div label {
+  display: flex;
+  outline: none;
+  font-size: 18px;
+  margin-right: 2px;
+  color: rgb(42, 46, 44);
+}
+
+.container-checkbox-radio {
+  display: flex;
+}
+
+.radio-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 32%;
+}
+
+.radio-container label , .checkbox-container label {
+  font-size: 19px;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+}
+
+.radio-option label {
+  order: 1;
+  padding-left: 3px;
+}
+
+.checkbox-option {
+  display: flex;
+  align-items: center;
+  padding: 2px 30px;
+}
+
+.checkbox-option label {
+  order: 1;
+  padding-left: 3px;
+}
+
+.container-radio-rate {
+  display: flex;
+  flex-direction: column;
+}
+
+.radio-rate {
+  display: flex;
+  align-items: center;
+}
+
+.radio-rate label {
+  padding-right: 10px;
+  padding-left: 1px;
+}
+
+.radio-rate input {
+  padding-left: 20px;
+  padding-right: 3px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  height: 5vh;
+  background-color: black;
+  color: white;
+}
+
+.container-textarea {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.container-textarea p {
+  padding-left: 80px;
+  color: rgb(61, 73, 92);
+}
+
+.container-textarea textarea {
+  width: 100%;
+}
+
+.container-agreement {
+  display: flex;
+  align-items: center;
+}
+
+.container-agreement label {
+  padding-left: 4px;
+  width: 100%;
+}
+
+#submit-btn {
+  width: auto;
+  border: none;
+  border-radius: 5px;
+  color: aliceblue;
+  background-color: rgb(53, 160, 231);
+  margin-top: 4px;
+  height: 30px;
+  cursor: pointer;
+}
+
+#submit-btn:hover {
+  color: rgb(53, 160, 231);
+  background-color: aliceblue;
+  border: 2px solid  rgb(53, 160, 231);
+  transition: 0.6s;
+}
