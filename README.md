@@ -57,4 +57,4 @@
 - JavaScript
 
 ## DEPLOY :runner:
-[Clique Aqui](https://project-trybewarts-7hyt.vercel.app/)
+[Clique Aqui](https://gustavogss.github.io/project-trybewarts/)
