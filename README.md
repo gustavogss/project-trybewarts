@@ -58,3 +58,7 @@
 
 ## DEPLOY :runner:
 [Clique Aqui](https://gustavogss.github.io/trybewarts-project/)
+
+![Captura de tela de 2023-02-11 19-30-20](https://user-images.githubusercontent.com/20332960/218283817-dc90ee5a-b7fd-406b-86e3-1d10ea71ad5e.png)
+
+
