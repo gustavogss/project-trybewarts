@@ -57,4 +57,4 @@
 - JavaScript
 
 ## DEPLOY :runner:
-[Clique Aqui](https://gustavogss.github.io/project-trybewarts/)
+[Clique Aqui](https://gustavogss.github.io/trybewarts-project/)
